@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVVM project</string>
+    <string name="type_your_email">type your email</string>
+    <string name="mvvm_project">MVVM Project</string>
+    <string name="enter_password_text">Enter password</string>
+    <string name="login_button_Text">login</string>
 </resources>
